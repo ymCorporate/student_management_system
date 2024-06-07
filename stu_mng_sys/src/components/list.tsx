@@ -39,21 +39,45 @@ const StudentList: React.FC = () => {
   };
 
   const handleSave = (id: number) => {
+    const studentToEdit = students.find((student) => student.id === id);
+    if (!studentToEdit) {
+      console.error("Student not found.");
+      return;
+    }
+
+    const { name, grade, major } = formData;
+  
+    if (!/^[A-Za-z][A-Za-z0-9\s]*$/.test(name) || name.length < 3) {
+      alert('Name should not start with a number and should have at least 3 characters.');
+      return;
+    }
+  
+    const existingStudent = students.find((student) => student.id !== id && student.name === name && student.grade === grade && student.major === major);
+    if (existingStudent) {
+      alert('A student with the same name, grade, and major already exists.');
+      return;
+    }
+  
+    if (!grade || !major) {
+      alert('Please select both grade and major.');
+      return;
+    }
+  
     fetch(`http://localhost:8000/students/${id}`, {
-      method: "PUT",
+      method: 'PUT',
       headers: {
-        "Content-Type": "application/json",
+        'Content-Type': 'application/json',
       },
       body: JSON.stringify(formData),
     })
       .then((response) => response.json())
       .then((updatedStudent) => {
-        setStudents(
-          students.map((student) =>
-            student.id === id ? updatedStudent : student
-          )
-        );
+        setStudents(students.map((student) => (student.id === id ? updatedStudent : student)));
         setEditingId(null);
+      })
+      .catch((error) => {
+        console.error("Error updating student:", error);
+        alert('Failed to update student. Please try again later.');
       });
   };
 
