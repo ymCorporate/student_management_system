@@ -8,8 +8,8 @@ import Footer from './components/footer';
 const App: React.FC=()=>{
   return (
     <div className="App">
-      <Header/>
-      <StudentList/>
+      <Header />
+      <StudentList />
       <Footer />
     </div>
   );
