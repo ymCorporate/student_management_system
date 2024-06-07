@@ -2,8 +2,8 @@
   "students": [
     {
       "name": "John Doe",
-      "grade": "A",
-      "major": "Information Science",
+      "grade": "D",
+      "major": "Electrical and electronics",
       "id": "1"
     },
     {
@@ -593,12 +593,6 @@
       "name": "Charlotte Hayes",
       "grade": "B",
       "major": "Biotechnology"
-    },
-    {
-      "id": "100",
-      "name": "Christian Cox",
-      "grade": "C",
-      "major": "Industrial production"
     }
   ]
 }
