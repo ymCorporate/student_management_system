@@ -25,6 +25,7 @@ const StudentList: React.FC = () => {
         method: "DELETE",
       }).then(() => {
         setStudents(students.filter((student) => student.id !== id));
+        console.log(students);
       });
     }
   };
@@ -44,7 +45,7 @@ const StudentList: React.FC = () => {
       console.error("Student not found.");
       return;
     }
-
+  
     const { name, grade, major } = formData;
   
     if (!/^[A-Za-z][A-Za-z0-9\s]*$/.test(name) || name.length < 3) {
@@ -80,6 +81,7 @@ const StudentList: React.FC = () => {
         alert('Failed to update student. Please try again later.');
       });
   };
+  
 
   const handleCreate = (e: React.FormEvent<HTMLFormElement>) => {
     e.preventDefault();
@@ -116,7 +118,7 @@ const StudentList: React.FC = () => {
       .then((students) => {
         const lastId = students.length > 0 ? parseInt(students[students.length - 1].id) : 0;
         const newStudentData = {
-          id: lastId + 1,
+          id: (lastId + 1).toString(), // Convert to string
           name,
           grade,
           major
@@ -151,7 +153,6 @@ const StudentList: React.FC = () => {
         alert('Failed to fetch student data. Please try again later.');
       });
   };
-  
   
   const handleChange = (
     e: React.ChangeEvent<HTMLInputElement | HTMLSelectElement>
