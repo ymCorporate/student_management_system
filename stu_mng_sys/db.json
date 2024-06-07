@@ -1,604 +1,604 @@
 {
-  "students":[
-      {
-        "id": 1,
-        "name": "John Doe",
-        "grade": "A",
-        "major": "Computer science"
-      },
-      {
-        "id": 2,
-        "name": "Jane Smith",
-        "grade": "B",
-        "major": "Information Science"
-      },
-      {
-        "id": 3,
-        "name": "Michael Johnson",
-        "grade": "C",
-        "major": "Electronics and communication"
-      },
-      {
-        "id": 4,
-        "name": "Emily Brown",
-        "grade": "D",
-        "major": "Electrical and electronics"
-      },
-      {
-        "id": 5,
-        "name": "David Wilson",
-        "grade": "E",
-        "major": "Mechanical engineering"
-      },
-      {
-        "id": 6,
-        "name": "Sarah Martinez",
-        "grade": "F",
-        "major": "Civil engineering"
-      },
-      {
-        "id": 7,
-        "name": "Matthew Anderson",
-        "grade": "A",
-        "major": "Contruction technology"
-      },
-      {
-        "id": 8,
-        "name": "Emma Taylor",
-        "grade": "B",
-        "major": "Biotechnology"
-      },
-      {
-        "id": 9,
-        "name": "Daniel Thomas",
-        "grade": "C",
-        "major": "Industrial production"
-      },
-      {
-        "id": 10,
-        "name": "Olivia Jones",
-        "grade": "D",
-        "major": "Computer science"
-      },
-      {
-        "id": 11,
-        "name": "William Brown",
-        "grade": "E",
-        "major": "Information Science"
-      },
-      {
-        "id": 12,
-        "name": "Sophia Garcia",
-        "grade": "F",
-        "major": "Electronics and communication"
-      },
-      {
-        "id": 13,
-        "name": "James Rodriguez",
-        "grade": "A",
-        "major": "Electrical and electronics"
-      },
-      {
-        "id": 14,
-        "name": "Ava Martinez",
-        "grade": "B",
-        "major": "Mechanical engineering"
-      },
-      {
-        "id": 15,
-        "name": "Logan Hernandez",
-        "grade": "C",
-        "major": "Civil engineering"
-      },
-      {
-        "id": 16,
-        "name": "Mia Nguyen",
-        "grade": "D",
-        "major": "Contruction technology"
-      },
-      {
-        "id": 17,
-        "name": "Benjamin Perez",
-        "grade": "E",
-        "major": "Biotechnology"
-      },
-      {
-        "id": 18,
-        "name": "Amelia Lewis",
-        "grade": "F",
-        "major": "Industrial production"
-      },
-      {
-        "id": 19,
-        "name": "Mason King",
-        "grade": "A",
-        "major": "Computer science"
-      },
-      {
-        "id": 20,
-        "name": "Harper Wright",
-        "grade": "B",
-        "major": "Information Science"
-      },
-      {
-        "id": 21,
-        "name": "Evelyn Scott",
-        "grade": "C",
-        "major": "Electronics and communication"
-      },
-      {
-        "id": 22,
-        "name": "Ethan Green",
-        "grade": "D",
-        "major": "Electrical and electronics"
-      },
-      {
-        "id": 23,
-        "name": "Aiden Baker",
-        "grade": "E",
-        "major": "Mechanical engineering"
-      },
-      {
-        "id": 24,
-        "name": "Aria Adams",
-        "grade": "F",
-        "major": "Civil engineering"
-      },
-      {
-        "id": 25,
-        "name": "Carter Hall",
-        "grade": "A",
-        "major": "Contruction technology"
-      },
-      {
-        "id": 26,
-        "name": "Scarlett Rivera",
-        "grade": "B",
-        "major": "Biotechnology"
-      },
-      {
-        "id": 27,
-        "name": "Lucas Mitchell",
-        "grade": "C",
-        "major": "Industrial production"
-      },
-      {
-        "id": 28,
-        "name": "Riley Carter",
-        "grade": "D",
-        "major": "Computer science"
-      },
-      {
-        "id": 29,
-        "name": "Zoey Murphy",
-        "grade": "E",
-        "major": "Information Science"
-      },
-      {
-        "id": 30,
-        "name": "Jackson Perez",
-        "grade": "F",
-        "major": "Electronics and communication"
-      },
-      {
-        "id": 31,
-        "name": "Penelope Evans",
-        "grade": "A",
-        "major": "Electrical and electronics"
-      },
-      {
-        "id": 32,
-        "name": "Grayson Russell",
-        "grade": "B",
-        "major": "Mechanical engineering"
-      },
-      {
-        "id": 33,
-        "name": "Layla Ramirez",
-        "grade": "C",
-        "major": "Civil engineering"
-      },
-      {
-        "id": 34,
-        "name": "Mateo Long",
-        "grade": "D",
-        "major": "Contruction technology"
-      },
-      {
-        "id": 35,
-        "name": "MAx daniel",
-        "grade": "C",
-        "major": "Biotechnology"
-      },
-      {
-        "id": 36,
-        "name": "Leo Price",
-        "grade": "E",
-        "major": "Biotechnology"
-      },
-      {
-        "id": 37,
-        "name": "Luna Hughes",
-        "grade": "F",
-        "major": "Industrial production"
-      },
-      {
-        "id": 38,
-        "name": "Hudson Brooks",
-        "grade": "A",
-        "major": "Computer science"
-      },
-      {
-        "id": 39,
-        "name": "Stella Bailey",
-        "grade": "B",
-        "major": "Information Science"
-      },
-      {
-        "id": 40,
-        "name": "Nolan Price",
-        "grade": "C",
-        "major": "Electronics and communication"
-      },
-      {
-        "id": 41,
-        "name": "Mila Ward",
-        "grade": "D",
-        "major": "Electrical and electronics"
-      },
-      {
-        "id": 42,
-        "name": "Avery Rogers",
-        "grade": "E",
-        "major": "Mechanical engineering"
-      },
-      {
-        "id": 43,
-        "name": "Axel Foster",
-        "grade": "F",
-        "major": "Civil engineering"
-      },
-      {
-        "id": 44,
-        "name": "Zoe Cooper",
-        "grade": "A",
-        "major": "Contruction technology"
-      },
-      {
-        "id": 45,
-        "name": "Paisley Murphy",
-        "grade": "B",
-        "major": "Biotechnology"
-      },
-      {
-        "id": 46,
-        "name": "Lincoln Powell",
-        "grade": "C",
-        "major": "Industrial production"
-      },
-      {
-        "id": 47,
-        "name": "Brooklyn Sanders",
-        "grade": "D",
-        "major": "Computer science"
-      },
-      {
-        "id": 48,
-        "name": "Hazel Price",
-        "grade": "E",
-        "major": "Information Science"
-      },
-      {
-        "id": 49,
-        "name": "Bentley Collins",
-        "grade": "F",
-        "major": "Electronics and communication"
-      },
-      {
-        "id": 50,
-        "name": "Addison Patterson",
-        "grade": "A",
-        "major": "Electrical and electronics"
-      },
-      {
-        "id": 51,
-        "name": "Nova Henderson",
-        "grade": "B",
-        "major": "Mechanical engineering"
-      },
-      {
-        "id": 52,
-        "name": "Elias Rivera",
-        "grade": "C",
-        "major": "Civil engineering"
-      },
-      {
-        "id": 53,
-        "name": "Maya Ortiz",
-        "grade": "D",
-        "major": "Contruction technology"
-      },
-      {
-        "id": 54,
-        "name": "Kai Ward",
-        "grade": "E",
-        "major": "Biotechnology"
-      },
-      {
-        "id": 55,
-        "name": "Sawyer Sullivan",
-        "grade": "F",
-        "major": "Industrial production"
-      },
-      {
-        "id": 56,
-        "name": "Ivy Morgan",
-        "grade": "A",
-        "major": "Computer science"
-      },
-      {
-        "id": 57,
-        "name": "Parker Holmes",
-        "grade": "B",
-        "major": "Information Science"
-      },
-      {
-        "id": 58,
-        "name": "Ezekiel Kim",
-        "grade": "C",
-        "major": "Electronics and communication"
-      },
-      {
-        "id": 59,
-        "name": "Bella Sanders",
-        "grade": "D",
-        "major": "Electrical and electronics"
-      },
-      {
-        "id": 60,
-        "name": "Emerson Thompson",
-        "grade": "E",
-        "major": "Mechanical engineering"
-      },
-      {
-        "id": 61,
-        "name": "Alexis Howard",
-        "grade": "F",
-        "major": "Civil engineering"
-      },
-      {
-        "id": 62,
-        "name": "Elliot Cook",
-        "grade": "A",
-        "major": "Contruction technology"
-      },
-      {
-        "id": 63,
-        "name": "Willow Cooper",
-        "grade": "B",
-        "major": "Biotechnology"
-      },
-      {
-        "id": 64,
-        "name": "Harrison Bennett",
-        "grade": "C",
-        "major": "Industrial production"
-      },
-      {
-        "id": 65,
-        "name": "Madeline Ross",
-        "grade": "D",
-        "major": "Computer science"
-      },
-      {
-        "id": 66,
-        "name": "Roman Russell",
-        "grade": "E",
-        "major": "Information Science"
-      },
-      {
-        "id": 67,
-        "name": "Lila Martinez",
-        "grade": "F",
-        "major": "Electronics and communication"
-      },
-      {
-        "id": 68,
-        "name": "Luke Long",
-        "grade": "A",
-        "major": "Electrical and electronics"
-      },
-      {
-        "id": 69,
-        "name": "Gabriella Peterson",
-        "grade": "B",
-        "major": "Mechanical engineering"
-      },
-      {
-        "id": 70,
-        "name": "Jaxon Flores",
-        "grade": "C",
-        "major": "Civil engineering"
-      },
-      {
-        "id": 71,
-        "name": "Clara King",
-        "grade": "D",
-        "major": "Contruction technology"
-      },
-      {
-        "id": 72,
-        "name": "Jude Harris",
-        "grade": "E",
-        "major": "Biotechnology"
-      },
-      {
-        "id": 73,
-        "name": "Hadley Turner",
-        "grade": "F",
-        "major": "Industrial production"
-      },
-      {
-        "id": 74,
-        "name": "Asher Bailey",
-        "grade": "A",
-        "major": "Computer science"
-      },
-      {
-        "id": 75,
-        "name": "Kylie Cook",
-        "grade": "B",
-        "major": "Information Science"
-      },
-      {
-        "id": 76,
-        "name": "Silas Martin",
-        "grade": "C",
-        "major": "Electronics and communication"
-      },
-      {
-        "id": 77,
-        "name": "Taylor Mitchell",
-        "grade": "D",
-        "major": "Electrical and electronics"
-      },
-      {
-        "id": 78,
-        "name": "Eva Hughes",
-        "grade": "E",
-        "major": "Contruction technology"
-      },
-      {
-        "id": 79,
-        "name": "Cole Stewart",
-        "grade": "F",
-        "major": "Civil engineering"
-        },
-        {
-        "id": 80,
-        "name": "Maxwell Ward",
-        "grade": "A",
-        "major": "Contruction technology"
-        },
-        {
-        "id": 81,
-        "name": "Leah Carter",
-        "grade": "B",
-        "major": "Biotechnology"
-        },
-        {
-        "id": 82,
-        "name": "Nathan Richardson",
-        "grade": "C",
-        "major": "Industrial production"
-        },
-        {
-        "id": 83,
-        "name": "Maria Parker",
-        "grade": "D",
-        "major": "Computer science"
-        },
-        {
-        "id": 84,
-        "name": "Austin Wright",
-        "grade": "E",
-        "major": "Information Science"
-        },
-        {
-        "id": 85,
-        "name": "Violet Powell",
-        "grade": "F",
-        "major": "Electronics and communication"
-        },
-        {
-        "id": 86,
-        "name": "Hunter Bell",
-        "grade": "A",
-        "major": "Electrical and electronics"
-        },
-        {
-        "id": 87,
-        "name": "Sadie Ward",
-        "grade": "B",
-        "major": "Mechanical engineering"
-        },
-        {
-        "id": 88,
-        "name": "Dominic Turner",
-        "grade": "C",
-        "major": "Civil engineering"
-        },
-        {
-        "id": 89,
-        "name": "Aurora Adams",
-        "grade": "D",
-        "major": "Contruction technology"
-        },
-        {
-        "id": 90,
-        "name": "Liam Scott",
-        "grade": "E",
-        "major": "Biotechnology"
-        },
-        {
-        "id": 91,
-        "name": "Gabriel Lee",
-        "grade": "F",
-        "major": "Industrial production"
-        },
-        {
-        "id": 92,
-        "name": "Levi White",
-        "grade": "A",
-        "major": "Computer science"
-        },
-        {
-        "id": 93,
-        "name": "Anna Brooks",
-        "grade": "B",
-        "major": "Information Science"
-        },
-        {
-        "id": 94,
-        "name": "Audrey Perez",
-        "grade": "C",
-        "major": "Electronics and communication"
-        },
-        {
-        "id": 95,
-        "name": "Jack Bell",
-        "grade": "D",
-        "major": "Electrical and electronics"
-        },
-        {
-        "id": 96,
-        "name": "Eleanor Reed",
-        "grade": "E",
-        "major": "Mechanical engineering"
-        },
-        {
-        "id": 97,
-        "name": "Grayson Foster",
-        "grade": "F",
-        "major": "Civil engineering"
-        },
-        {
-        "id": 98,
-        "name": "Skylar Wood",
-        "grade": "A",
-        "major": "Contruction technology"
-        },
-        {
-        "id": 99,
-        "name": "Charlotte Hayes",
-        "grade": "B",
-        "major": "Biotechnology"
-        },
-        {
-        "id": 100,
-        "name": "Christian Cox",
-        "grade": "C",
-        "major": "Industrial production"
-        }
-    ]
-  }
+  "students": [
+    {
+      "name": "John Doe",
+      "grade": "A",
+      "major": "Information Science",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "name": "Jane Smith",
+      "grade": "B",
+      "major": "Information Science"
+    },
+    {
+      "id": "3",
+      "name": "Michael Johnson",
+      "grade": "C",
+      "major": "Electronics and communication"
+    },
+    {
+      "id": "4",
+      "name": "Emily Brown",
+      "grade": "D",
+      "major": "Electrical and electronics"
+    },
+    {
+      "id": "5",
+      "name": "David Wilson",
+      "grade": "E",
+      "major": "Mechanical engineering"
+    },
+    {
+      "id": "6",
+      "name": "Sarah Martinez",
+      "grade": "F",
+      "major": "Civil engineering"
+    },
+    {
+      "id": "7",
+      "name": "Matthew Anderson",
+      "grade": "A",
+      "major": "Contruction technology"
+    },
+    {
+      "id": "8",
+      "name": "Emma Taylor",
+      "grade": "B",
+      "major": "Biotechnology"
+    },
+    {
+      "id": "9",
+      "name": "Daniel Thomas",
+      "grade": "C",
+      "major": "Industrial production"
+    },
+    {
+      "id": "10",
+      "name": "Olivia Jones",
+      "grade": "D",
+      "major": "Computer science"
+    },
+    {
+      "id": "11",
+      "name": "William Brown",
+      "grade": "E",
+      "major": "Information Science"
+    },
+    {
+      "id": "12",
+      "name": "Sophia Garcia",
+      "grade": "F",
+      "major": "Electronics and communication"
+    },
+    {
+      "id": "13",
+      "name": "James Rodriguez",
+      "grade": "A",
+      "major": "Electrical and electronics"
+    },
+    {
+      "id": "14",
+      "name": "Ava Martinez",
+      "grade": "B",
+      "major": "Mechanical engineering"
+    },
+    {
+      "id": "15",
+      "name": "Logan Hernandez",
+      "grade": "C",
+      "major": "Civil engineering"
+    },
+    {
+      "id": "16",
+      "name": "Mia Nguyen",
+      "grade": "D",
+      "major": "Contruction technology"
+    },
+    {
+      "id": "17",
+      "name": "Benjamin Perez",
+      "grade": "E",
+      "major": "Biotechnology"
+    },
+    {
+      "id": "18",
+      "name": "Amelia Lewis",
+      "grade": "F",
+      "major": "Industrial production"
+    },
+    {
+      "id": "19",
+      "name": "Mason King",
+      "grade": "A",
+      "major": "Computer science"
+    },
+    {
+      "id": "20",
+      "name": "Harper Wright",
+      "grade": "B",
+      "major": "Information Science"
+    },
+    {
+      "id": "21",
+      "name": "Evelyn Scott",
+      "grade": "C",
+      "major": "Electronics and communication"
+    },
+    {
+      "id": "22",
+      "name": "Ethan Green",
+      "grade": "D",
+      "major": "Electrical and electronics"
+    },
+    {
+      "id": "23",
+      "name": "Aiden Baker",
+      "grade": "E",
+      "major": "Mechanical engineering"
+    },
+    {
+      "id": "24",
+      "name": "Aria Adams",
+      "grade": "F",
+      "major": "Civil engineering"
+    },
+    {
+      "id": "25",
+      "name": "Carter Hall",
+      "grade": "A",
+      "major": "Contruction technology"
+    },
+    {
+      "id": "26",
+      "name": "Scarlett Rivera",
+      "grade": "B",
+      "major": "Biotechnology"
+    },
+    {
+      "id": "27",
+      "name": "Lucas Mitchell",
+      "grade": "C",
+      "major": "Industrial production"
+    },
+    {
+      "id": "28",
+      "name": "Riley Carter",
+      "grade": "D",
+      "major": "Computer science"
+    },
+    {
+      "id": "29",
+      "name": "Zoey Murphy",
+      "grade": "E",
+      "major": "Information Science"
+    },
+    {
+      "id": "30",
+      "name": "Jackson Perez",
+      "grade": "F",
+      "major": "Electronics and communication"
+    },
+    {
+      "id": "31",
+      "name": "Penelope Evans",
+      "grade": "A",
+      "major": "Electrical and electronics"
+    },
+    {
+      "id": "32",
+      "name": "Grayson Russell",
+      "grade": "B",
+      "major": "Mechanical engineering"
+    },
+    {
+      "id": "33",
+      "name": "Layla Ramirez",
+      "grade": "C",
+      "major": "Civil engineering"
+    },
+    {
+      "id": "34",
+      "name": "Mateo Long",
+      "grade": "D",
+      "major": "Contruction technology"
+    },
+    {
+      "id": "35",
+      "name": "MAx daniel",
+      "grade": "C",
+      "major": "Biotechnology"
+    },
+    {
+      "id": "36",
+      "name": "Leo Price",
+      "grade": "E",
+      "major": "Biotechnology"
+    },
+    {
+      "id": "37",
+      "name": "Luna Hughes",
+      "grade": "F",
+      "major": "Industrial production"
+    },
+    {
+      "id": "38",
+      "name": "Hudson Brooks",
+      "grade": "A",
+      "major": "Computer science"
+    },
+    {
+      "id": "39",
+      "name": "Stella Bailey",
+      "grade": "B",
+      "major": "Information Science"
+    },
+    {
+      "id": "40",
+      "name": "Nolan Price",
+      "grade": "C",
+      "major": "Electronics and communication"
+    },
+    {
+      "id": "41",
+      "name": "Mila Ward",
+      "grade": "D",
+      "major": "Electrical and electronics"
+    },
+    {
+      "id": "42",
+      "name": "Avery Rogers",
+      "grade": "E",
+      "major": "Mechanical engineering"
+    },
+    {
+      "id": "43",
+      "name": "Axel Foster",
+      "grade": "F",
+      "major": "Civil engineering"
+    },
+    {
+      "id": "44",
+      "name": "Zoe Cooper",
+      "grade": "A",
+      "major": "Contruction technology"
+    },
+    {
+      "id": "45",
+      "name": "Paisley Murphy",
+      "grade": "B",
+      "major": "Biotechnology"
+    },
+    {
+      "id": "46",
+      "name": "Lincoln Powell",
+      "grade": "C",
+      "major": "Industrial production"
+    },
+    {
+      "id": "47",
+      "name": "Brooklyn Sanders",
+      "grade": "D",
+      "major": "Computer science"
+    },
+    {
+      "id": "48",
+      "name": "Hazel Price",
+      "grade": "E",
+      "major": "Information Science"
+    },
+    {
+      "id": "49",
+      "name": "Bentley Collins",
+      "grade": "F",
+      "major": "Electronics and communication"
+    },
+    {
+      "id": "50",
+      "name": "Addison Patterson",
+      "grade": "A",
+      "major": "Electrical and electronics"
+    },
+    {
+      "id": "51",
+      "name": "Nova Henderson",
+      "grade": "B",
+      "major": "Mechanical engineering"
+    },
+    {
+      "id": "52",
+      "name": "Elias Rivera",
+      "grade": "C",
+      "major": "Civil engineering"
+    },
+    {
+      "id": "53",
+      "name": "Maya Ortiz",
+      "grade": "D",
+      "major": "Contruction technology"
+    },
+    {
+      "id": "54",
+      "name": "Kai Ward",
+      "grade": "E",
+      "major": "Biotechnology"
+    },
+    {
+      "id": "55",
+      "name": "Sawyer Sullivan",
+      "grade": "F",
+      "major": "Industrial production"
+    },
+    {
+      "id": "56",
+      "name": "Ivy Morgan",
+      "grade": "A",
+      "major": "Computer science"
+    },
+    {
+      "id": "57",
+      "name": "Parker Holmes",
+      "grade": "B",
+      "major": "Information Science"
+    },
+    {
+      "id": "58",
+      "name": "Ezekiel Kim",
+      "grade": "C",
+      "major": "Electronics and communication"
+    },
+    {
+      "id": "59",
+      "name": "Bella Sanders",
+      "grade": "D",
+      "major": "Electrical and electronics"
+    },
+    {
+      "id": "60",
+      "name": "Emerson Thompson",
+      "grade": "E",
+      "major": "Mechanical engineering"
+    },
+    {
+      "id": "61",
+      "name": "Alexis Howard",
+      "grade": "F",
+      "major": "Civil engineering"
+    },
+    {
+      "id": "62",
+      "name": "Elliot Cook",
+      "grade": "A",
+      "major": "Contruction technology"
+    },
+    {
+      "id": "63",
+      "name": "Willow Cooper",
+      "grade": "B",
+      "major": "Biotechnology"
+    },
+    {
+      "id": "64",
+      "name": "Harrison Bennett",
+      "grade": "C",
+      "major": "Industrial production"
+    },
+    {
+      "id": "65",
+      "name": "Madeline Ross",
+      "grade": "D",
+      "major": "Computer science"
+    },
+    {
+      "id": "66",
+      "name": "Roman Russell",
+      "grade": "E",
+      "major": "Information Science"
+    },
+    {
+      "id": "67",
+      "name": "Lila Martinez",
+      "grade": "F",
+      "major": "Electronics and communication"
+    },
+    {
+      "id": "68",
+      "name": "Luke Long",
+      "grade": "A",
+      "major": "Electrical and electronics"
+    },
+    {
+      "id": "69",
+      "name": "Gabriella Peterson",
+      "grade": "B",
+      "major": "Mechanical engineering"
+    },
+    {
+      "id": "70",
+      "name": "Jaxon Flores",
+      "grade": "C",
+      "major": "Civil engineering"
+    },
+    {
+      "id": "71",
+      "name": "Clara King",
+      "grade": "D",
+      "major": "Contruction technology"
+    },
+    {
+      "id": "72",
+      "name": "Jude Harris",
+      "grade": "E",
+      "major": "Biotechnology"
+    },
+    {
+      "id": "73",
+      "name": "Hadley Turner",
+      "grade": "F",
+      "major": "Industrial production"
+    },
+    {
+      "id": "74",
+      "name": "Asher Bailey",
+      "grade": "A",
+      "major": "Computer science"
+    },
+    {
+      "id": "75",
+      "name": "Kylie Cook",
+      "grade": "B",
+      "major": "Information Science"
+    },
+    {
+      "id": "76",
+      "name": "Silas Martin",
+      "grade": "C",
+      "major": "Electronics and communication"
+    },
+    {
+      "id": "77",
+      "name": "Taylor Mitchell",
+      "grade": "D",
+      "major": "Electrical and electronics"
+    },
+    {
+      "id": "78",
+      "name": "Eva Hughes",
+      "grade": "E",
+      "major": "Contruction technology"
+    },
+    {
+      "id": "79",
+      "name": "Cole Stewart",
+      "grade": "F",
+      "major": "Civil engineering"
+    },
+    {
+      "id": "80",
+      "name": "Maxwell Ward",
+      "grade": "A",
+      "major": "Contruction technology"
+    },
+    {
+      "id": "81",
+      "name": "Leah Carter",
+      "grade": "B",
+      "major": "Biotechnology"
+    },
+    {
+      "id": "82",
+      "name": "Nathan Richardson",
+      "grade": "C",
+      "major": "Industrial production"
+    },
+    {
+      "id": "83",
+      "name": "Maria Parker",
+      "grade": "D",
+      "major": "Computer science"
+    },
+    {
+      "id": "84",
+      "name": "Austin Wright",
+      "grade": "E",
+      "major": "Information Science"
+    },
+    {
+      "id": "85",
+      "name": "Violet Powell",
+      "grade": "F",
+      "major": "Electronics and communication"
+    },
+    {
+      "id": "86",
+      "name": "Hunter Bell",
+      "grade": "A",
+      "major": "Electrical and electronics"
+    },
+    {
+      "id": "87",
+      "name": "Sadie Ward",
+      "grade": "B",
+      "major": "Mechanical engineering"
+    },
+    {
+      "id": "88",
+      "name": "Dominic Turner",
+      "grade": "C",
+      "major": "Civil engineering"
+    },
+    {
+      "id": "89",
+      "name": "Aurora Adams",
+      "grade": "D",
+      "major": "Contruction technology"
+    },
+    {
+      "id": "90",
+      "name": "Liam Scott",
+      "grade": "E",
+      "major": "Biotechnology"
+    },
+    {
+      "id": "91",
+      "name": "Gabriel Lee",
+      "grade": "F",
+      "major": "Industrial production"
+    },
+    {
+      "id": "92",
+      "name": "Levi White",
+      "grade": "A",
+      "major": "Computer science"
+    },
+    {
+      "id": "93",
+      "name": "Anna Brooks",
+      "grade": "B",
+      "major": "Information Science"
+    },
+    {
+      "id": "94",
+      "name": "Audrey Perez",
+      "grade": "C",
+      "major": "Electronics and communication"
+    },
+    {
+      "id": "95",
+      "name": "Jack Bell",
+      "grade": "D",
+      "major": "Electrical and electronics"
+    },
+    {
+      "id": "96",
+      "name": "Eleanor Reed",
+      "grade": "E",
+      "major": "Mechanical engineering"
+    },
+    {
+      "id": "97",
+      "name": "Grayson Foster",
+      "grade": "F",
+      "major": "Civil engineering"
+    },
+    {
+      "id": "98",
+      "name": "Skylar Wood",
+      "grade": "A",
+      "major": "Contruction technology"
+    },
+    {
+      "id": "99",
+      "name": "Charlotte Hayes",
+      "grade": "B",
+      "major": "Biotechnology"
+    },
+    {
+      "id": "100",
+      "name": "Christian Cox",
+      "grade": "C",
+      "major": "Industrial production"
+    }
+  ]
+}
